@@ -1,6 +1,6 @@
 import React from 'react';
 import './Luxury.css';
-import luxuryImage from '../assets/images/luxury-service.jpg';
+import luxuryImage from '../assets/images/luxury-service.webp';
 
 const Luxury = () => {
   return (

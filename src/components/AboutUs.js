@@ -1,7 +1,7 @@
 
 import React from 'react';
 import './AboutUs.css';
-import aboutImage from '../assets/images/about.jpg';
+import aboutImage from '../assets/images/about.webp';
 
 const AboutUs = () => {
   return (
