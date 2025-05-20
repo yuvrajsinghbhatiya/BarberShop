@@ -47,6 +47,6 @@ This project features a clean UI showcasing barber services with custom SVG icon
 
 ## Hosted Url-
 
-   ```
-   
-   ```
+   ```bash
+    https://barber-shop-sable-tau.vercel.app/
+   ````
